@@ -1,2 +1,1 @@
-# Modul4
-Java coding SMK 8
+Ini bagian praktek dalam Tugas praktikum
